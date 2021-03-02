@@ -3,7 +3,7 @@ desktop-image: "background.png"
 desktop-image-scale-method: "stretch"
 desktop-color: "#000000"
 terminal-font: "DejaVu Regular 14"
-terminal-box: "terminal_box_*.png"
+terminal-box: "terminal_box_c.png"
 terminal-left: "0"
 terminal-top: "0"
 terminal-width: "100%"
@@ -42,8 +42,8 @@ terminal-border: "0"
   item_height = 40
   item_spacing = 4
   scrollbar = false
-  item_pixmap_style = "item_*.png"
-  selected_item_pixmap_style = "selected_item_*.png"
+  item_pixmap_style = "item_c.png"
+  selected_item_pixmap_style = "selected_item_c.png"
 }
 
 + progress_bar {
