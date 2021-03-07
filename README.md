@@ -1,5 +1,5 @@
 ## GRUB THEME  
-The first is copy the folder 'GRUB_theme' to /boot/grub/themes/.  
+The first you need to do is copy the folder *GRUB_theme* to */boot/grub/themes/*.  
 
 ## Edit the grub's config file  
 Add the following line to /etc/default/grub  
@@ -12,4 +12,4 @@ For example:`sudo grub-mkconfig -o /boot/grub/grub.cfg`
 If everything is OK, you will see the following line:  
 Found theme: /boot/grub/themes/GRUB_theme/theme.txt  
 
-### Reboot and you will se our new grub theme  
+### Reboot and you will see your new grub theme  
